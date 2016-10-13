@@ -1,6 +1,6 @@
 # ccSVM
 
-Correcting Support Vector Machines for confounding factors in biological data classification
+Confounder-corrected Classification with Support Vector Machines
 
 ## Code
 
